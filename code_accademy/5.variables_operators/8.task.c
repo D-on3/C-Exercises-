@@ -43,15 +43,15 @@ iTotalPLayers = iTotalPLayers + 2;
 
 /*▪ Отпечатайте на екрана броя на топчетата в края на деня.
 printf(“%d”, variableName);*/
-printf("%d",iBalls);
+printf("Number of balls at the end of the day : %d\n",iBalls);
 
 /*▪ Ако цената за 1 игра, за 1 човек е 3,50 изчислете колко пари има в касата до
 момента.
 ▪ Проследете колко екипа има в момента на игрището.
 ▪ Отпечатайте и двата резултата на екран.*/
 fTotalSum = (float)iTotalPLayers * 3.5 ;
-printf("%f",iTotalSum);
-printf("%d",iTotalTeams)
+printf("Total income: %.2f lv\n",fTotalSum);
+printf("Total teams : %d\n",iTotalTeams);
 
 
 
