@@ -14,5 +14,5 @@ printf("%s\n",var1);
 printf("%s\n",var2);
 printf("%s\n",var3);
 printf("%s",var4);
-    return 0;
+return 0;
 }
