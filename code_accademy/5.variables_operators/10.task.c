@@ -11,11 +11,11 @@
 Отговаря ли резултатът на очакванията ви?*/
 int main(){
 
-int iWholeNumber = 6;
+int iWholeNumber = 7;
 int iFinalNumber ;
 iFinalNumber = iWholeNumber + 5;
 iFinalNumber = iFinalNumber * 4 ;
 iFinalNumber = (iFinalNumber -3) / 2; 
-printf("Final result is : %d ")
+printf("Final result is : %d ",iFinalNumber);
 
 }
