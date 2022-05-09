@@ -53,6 +53,4 @@ fTotalSum = (float)iTotalPLayers * 3.5 ;
 printf("Total income: %.2f lv\n",fTotalSum);
 printf("Total teams : %d\n",iTotalTeams);
 
-
-
 }
