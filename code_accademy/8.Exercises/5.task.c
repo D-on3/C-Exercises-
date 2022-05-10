@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-
+/*С помощта на цикъл while да се намери
+произведението на четните числа от 1 до 20*/
 int main(){
 int iRangeStart=1;
 int iRangeEnd = 20;
